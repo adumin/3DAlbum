@@ -4,4 +4,4 @@
 上キーと下キーでカメラの移動ができます。
 
 体験はこちらから
-https://adunyan.github.io/3Directory/
+https://adzunyan.github.io/3Directory/
